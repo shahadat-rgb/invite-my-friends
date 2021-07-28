@@ -6,6 +6,12 @@
 * this website can be uses any user such as mobile,desktop & laptop user.
 * user can be added his friends for join party.
 
+### Technology uses :
+* React
+* Typescript
+* Tailwindcss
+* html
+
 ### Project Scrienshots :
 
 ![invite-friends (1)](https://user-images.githubusercontent.com/67516342/127298539-e0e03773-64b6-470b-b21f-97ed227b253d.png)
